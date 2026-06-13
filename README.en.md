@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>中文</b> · <a href="README.en.md">English</a>
+  <a href="README.md">中文</a> · <b>English</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>嵌入式软件工程师 · 小米科技有限公司</em>
+  <em>Embedded Software Engineer · Xiaomi Inc.</em>
 </p>
 
 <p align="center">
@@ -29,21 +29,21 @@
 
 ### 🔧 About Me
 
-- 💻 嵌入式软件工程师 @ 小米科技有限公司，专注实时操作系统与底层系统开发
-- 🧩 熟悉 **C / Python / Shell**，日常用 **Makefile / CMake** 组织构建
-- ⏱ 深入实践 **RTOS**：NuttX · Zephyr · FreeRTOS · openvela
-- 🛠 喜欢折腾工具链、自动化脚本与系统级调试
-- 🍎 业余也写点 iOS 小工具和 App，Just for fun
+- 💻 Embedded Software Engineer @ Xiaomi, focused on RTOS and low-level systems development
+- 🧩 Comfortable with **C / Python / Shell**, building with **Makefile / CMake** daily
+- ⏱ Hands-on with **RTOS**: NuttX · Zephyr · FreeRTOS · openvela
+- 🛠 Love tinkering with toolchains, automation scripts and system-level debugging
+- 🍎 Also build small iOS tools and apps in my spare time, just for fun
 
 ### 🧠 Tech Stack
 
-| 领域 | 技术 |
+| Area | Technologies |
 |------|------|
-| 编程语言 | C · Python · Shell · C++ |
-| 实时系统 | NuttX · Zephyr · FreeRTOS · openvela |
-| 构建工具 | Makefile · CMake |
-| 业余开发 | Swift · SwiftUI · iOS |
-| 平台 / 其他 | Linux · Git · 嵌入式调试 |
+| Languages | C · Python · Shell · C++ |
+| RTOS | NuttX · Zephyr · FreeRTOS · openvela |
+| Build Tools | Makefile · CMake |
+| Side Projects | Swift · SwiftUI · iOS |
+| Platform / Other | Linux · Git · Embedded Debugging |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,cmake,linux,git,swift,vscode,github&theme=dark" />
@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="mailto:mike_0528@163.com"><img src="https://img.shields.io/badge/Email-mike__0528@163.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.douyin.com/user/StarExplorer"><img src="https://img.shields.io/badge/抖音-StarExplorer-000000?style=flat&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.douyin.com/user/StarExplorer"><img src="https://img.shields.io/badge/Douyin-StarExplorer-000000?style=flat&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
