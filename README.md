@@ -1,7 +1,14 @@
-<h1 align="center">Hi, I'm Mike (王铭榕) 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Mike%20(王铭榕)&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38" />
+</p>
 
 <p align="center">
-  <em>Embedded Software Engineer @ Xiaomi · RTOS · Systems Programming</em><br/>
+  <a href="https://github.com/W-M-R">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Embedded+Software+Engineer+%40+Xiaomi;RTOS+%C2%B7+NuttX+%C2%B7+Zephyr+%C2%B7+FreeRTOS;C+%2F+Python+%2F+Shell+%2F+CMake;Just+for+fun+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <em>嵌入式软件工程师 · 小米科技有限公司</em>
 </p>
 
@@ -34,6 +41,10 @@
 | 业余开发 | Swift · SwiftUI · iOS |
 | 平台 / 其他 | Linux · Git · 嵌入式调试 |
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,cmake,linux,git,swift,vscode,github&theme=dark" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -47,6 +58,12 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=W-M-R&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/W-M-R/W-M-R/main/github-metrics.svg" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -69,3 +86,7 @@
 </p>
 
 <p align="center"><sub>⭐ Thanks for stopping by!</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=120&section=footer" />
+</p>
