@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Mike%20(王铭榕)&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Mike&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
