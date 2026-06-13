@@ -49,19 +49,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=W-M-R&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=W-M-R&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
-### ⏱ Weekly Coding Time
-
-<!-- WakaTime: 需在 https://wakatime.com 注册并在编辑器安装插件后，于仓库 Settings → Secrets 添加 WAKATIME_API_KEY，并启用 GitHub Action 自动写入下方区块 -->
-<!--START_SECTION:waka-->
-<p align="center"><sub>WakaTime 数据将在配置完成后自动显示</sub></p>
-<!--END_SECTION:waka-->
-
 ### 🐍 Contribution Snake
 
 <p align="center">
