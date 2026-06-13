@@ -64,12 +64,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=W-M-R&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-### 🧊 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/W-M-R/W-M-R/main/github-metrics.svg" />
-</p>
-
 ### 🐍 Contribution Snake
 
 <p align="center">
